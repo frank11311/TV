@@ -1,5 +1,7 @@
 收藏台,#genre#
 央视,#genre#
+CCTV5,rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR$IPv6
+CCTV16,rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/HD_8000k_1080P_cctv16_CR$IPv6
 体育,#genre#
 NewTV,#genre#
 影视,#genre#

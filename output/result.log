@@ -1,11 +1,80 @@
-Name: CCTV-6_电影, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000223$IPv6, Date: None, Resolution: None, Response Time: 15435 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1534804996_666837910/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8?icpid=3&RTS=1674385945&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$IPv6, Date: None, Resolution: None, Response Time: 15427 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15408 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/$IPv6, Date: None, Resolution: None, Response Time: 15412 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15413 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15415 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%252F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%252B8Y5pkFUyZBE%252FkNJAbwncEegkU$IPv6, Date: None, Resolution: None, Response Time: 15416 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15417 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/$IPv6, Date: None, Resolution: None, Response Time: 15417 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:1a0a:df::4033]:80/wh7f454c46tw1917467835_-2108786972/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?icpid=88888888&RTS=1713968746&from=4&hms_devid=1145&online=1713968746&vqe=3$IPv6, Date: None, Resolution: None, Response Time: 15419 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002179/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15423 ms
+Name: NewTV 超级综艺, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10361 ms
+Name: NewTV 超级综艺, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 10789 ms
+Name: NewTV 超级体育, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9430 ms
+Name: NewTV 超级体育, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 11038 ms
+Name: NewTV 潮妈辣婆, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9693 ms
+Name: NewTV 潮妈辣婆, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000018/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 11040 ms
+Name: NewTV 东北热剧, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000092/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 808 ms
+Name: NewTV 东北热剧, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1925 ms
+Name: NewTV 古装剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2190 ms
+Name: NewTV 欢乐剧场, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000091/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1297 ms
+Name: NewTV 欢乐剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2307 ms
+Name: NewTV 家庭剧场, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1429 ms
+Name: NewTV 家庭剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2041 ms
+Name: NewTV 金牌综艺, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1092 ms
+Name: NewTV 金牌综艺, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1770 ms
+Name: NewTV 惊悚悬疑, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1109 ms
+Name: NewTV 惊悚悬疑, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2117 ms
+Name: NewTV 动作电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 880 ms
+Name: NewTV 动作电影, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2189 ms
+Name: NewTV 动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2775 ms
+Name: NewTV 动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2869 ms
+Name: NewTV 动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7890 ms
+Name: NewTV 军旅剧场, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000107/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1302 ms
+Name: NewTV 军旅剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2162 ms
+Name: NewTV 军事评论, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1538 ms
+Name: NewTV 军事评论, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000022/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2135 ms
+Name: NewTV 魅力潇湘, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1236 ms
+Name: NewTV 明星大片, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1094 ms
+Name: NewTV 明星大片, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1235 ms
+Name: NewTV 农业致富, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000003/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2372 ms
+Name: NewTV 炫舞未来, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 923 ms
+Name: NewTV 炫舞未来, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1717 ms
+Name: NewTV 武博世界, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1744 ms
+Name: NewTV 中国功夫, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1627 ms
+Name: NewTV 中国功夫, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1717 ms
+Name: NewTV 怡伴健康, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1725 ms
+Name: NewTV 黑莓电影, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2201 ms
+Name: NewTV 哒啵电竞, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000032327/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1192 ms
+Name: NewTV 黑莓动画, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1240 ms
+Name: NewTV 哒啵赛事, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1294 ms
+Name: SiTV 动漫秀场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1101 ms
+Name: SiTV 动漫秀场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2166 ms
+Name: SiTV 都市剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1972 ms
+Name: SiTV 都市剧场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2651 ms
+Name: SiTV 法治天地, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2120 ms
+Name: SiTV 法治天地, URL: http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 2595 ms
+Name: SiTV 欢笑剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2093 ms
+Name: SiTV 欢笑剧场, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2608 ms
+Name: SiTV 欢笑剧场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2623 ms
+Name: SiTV 劲爆体育, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2208 ms
+Name: SiTV 金色学堂, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2033 ms
+Name: SiTV 金色学堂, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2743 ms
+Name: SiTV 乐游, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1100 ms
+Name: SiTV 魅力足球, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1229 ms
+Name: SiTV 七彩戏剧, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1213 ms
+Name: SiTV 生活时尚, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 6169 ms
+Name: SiTV 游戏风云, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 6084 ms
+Name: 凤凰中文, URL: http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6745 ms
+Name: 凤凰中文, URL: http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$IPv6, Date: None, Resolution: None, Response Time: 7542 ms
+Name: 黑莓电影, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000095$IPv6, Date: None, Resolution: None, Response Time: 2833 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3296 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3486 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4077 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5213 ms
+Name: 黑莓电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5517 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5891 ms
+Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6766 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8916 ms
+Name: 黑莓电影, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018$IPv6, Date: None, Resolution: None, Response Time: 9859 ms
+Name: 黑莓电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9922 ms
+Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10374 ms
+Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10916 ms
+Name: 黑莓电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11359 ms
+Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11441 ms
+Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12090 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12246 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12529 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12685 ms
+Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 13911 ms
+Name: 黑莓电影, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018$IPv6, Date: None, Resolution: None, Response Time: 14771 ms

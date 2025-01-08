@@ -1,383 +1,97 @@
-Name: CCTV-1_综合, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1781 ms
-Name: CCTV-1_综合, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4786 ms
-Name: CCTV-1_综合, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4806 ms
-Name: CCTV-1_综合, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5136 ms
-Name: CCTV-1_综合, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8754 ms
-Name: CCTV-1_综合, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 9086 ms
-Name: CCTV-2_财经, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1737 ms
-Name: CCTV-2_财经, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1788 ms
-Name: CCTV-2_财经, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2606 ms
-Name: CCTV-2_财经, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7407 ms
-Name: CCTV-2_财经, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 8617 ms
-Name: CCTV-2_财经, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 13054 ms
-Name: CCTV-4_中文国际, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1846 ms
-Name: CCTV-4_中文国际, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2288 ms
-Name: CCTV-4_中文国际, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3170 ms
-Name: CCTV-4_中文国际, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3607 ms
-Name: CCTV-4_中文国际, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4344 ms
-Name: CCTV-4_中文国际, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 4786 ms
-Name: CCTV-3_综艺, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 8041 ms
-Name: CCTV-3_综艺, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9478 ms
-Name: CCTV-3_综艺, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9626 ms
-Name: CCTV-3_综艺, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10074 ms
-Name: CCTV-3_综艺, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10493 ms
-Name: CCTV-3_综艺, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 14772 ms
-Name: CCTV-6_电影, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7308 ms
-Name: CCTV-6_电影, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7444 ms
-Name: CCTV-6_电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7922 ms
-Name: CCTV-6_电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226010/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8304 ms
-Name: CCTV-6_电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8909 ms
-Name: CCTV-6_电影, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 9466 ms
-Name: CCTV-5_体育, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1105 ms
-Name: CCTV-5_体育, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2568 ms
-Name: CCTV-5_体育, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226019/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5588 ms
-Name: CCTV-5_体育, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7578 ms
-Name: CCTV-5_体育, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 8781 ms
-Name: CCTV-5_体育, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11254 ms
-Name: CCTV-5+_体育赛事, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4451 ms
-Name: CCTV-5+_体育赛事, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4749 ms
-Name: CCTV-5+_体育赛事, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7221 ms
-Name: CCTV-5+_体育赛事, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 8355 ms
-Name: CCTV-5+_体育赛事, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9888 ms
-Name: CCTV-8_电视剧, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2995 ms
-Name: CCTV-8_电视剧, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4111 ms
-Name: CCTV-8_电视剧, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6041 ms
-Name: CCTV-8_电视剧, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 6046 ms
-Name: CCTV-8_电视剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226008/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7734 ms
-Name: CCTV-8_电视剧, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8693 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2714 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4730 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5928 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225733/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6698 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7532 ms
-Name: CCTV-7_国防军事, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024341/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8965 ms
-Name: CCTV-10_科教, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5343 ms
-Name: CCTV-10_科教, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 6073 ms
-Name: CCTV-10_科教, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6301 ms
-Name: CCTV-10_科教, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6956 ms
-Name: CCTV-10_科教, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225730/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7068 ms
-Name: CCTV-10_科教, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7660 ms
-Name: CCTV-11_戏曲, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5999 ms
-Name: CCTV-11_戏曲, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 6574 ms
-Name: CCTV-11_戏曲, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225597/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6806 ms
-Name: CCTV-11_戏曲, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7187 ms
-Name: CCTV-11_戏曲, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7315 ms
-Name: CCTV-11_戏曲, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7525 ms
-Name: CCTV-9_纪录, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5017 ms
-Name: CCTV-9_纪录, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5793 ms
-Name: CCTV-9_纪录, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5888 ms
-Name: CCTV-9_纪录, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5915 ms
-Name: CCTV-9_纪录, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 8583 ms
-Name: CCTV-9_纪录, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 13872 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 964 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2603 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225731/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2698 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2732 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 4094 ms
-Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4269 ms
-Name: CCTV-14_少儿, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1446 ms
-Name: CCTV-14_少儿, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1638 ms
-Name: CCTV-14_少儿, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226591/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2145 ms
-Name: CCTV-14_少儿, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225732/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3467 ms
-Name: CCTV-14_少儿, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4393 ms
-Name: CCTV-14_少儿, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4879 ms
-Name: CCTV-15_音乐, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1665 ms
-Name: CCTV-15_音乐, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1787 ms
-Name: CCTV-15_音乐, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2059 ms
-Name: CCTV-15_音乐, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2092 ms
-Name: CCTV-15_音乐, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2277 ms
-Name: CCTV-15_音乐, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225601/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3708 ms
-Name: CCTV-17_农业农村, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1153 ms
-Name: CCTV-17_农业农村, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1288 ms
-Name: CCTV-17_农业农村, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1739 ms
-Name: CCTV-17_农业农村, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2252 ms
-Name: CCTV-17_农业农村, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2625 ms
-Name: CCTV-17_农业农村, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2882 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1789 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2499 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2597 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2982 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3975 ms
-Name: CCTV-13_新闻, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 11203 ms
-Name: CCTV-16_奥林匹克, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 947 ms
-Name: CCTV-16_奥林匹克, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 955 ms
-Name: CCTV-16_奥林匹克, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1537 ms
-Name: CCTV-16_奥林匹克, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1564 ms
-Name: CCTV-16_奥林匹克, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2782 ms
-Name: CCTV-16_奥林匹克, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5123 ms
-Name: 快乐垂钓, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1369 ms
-Name: 快乐垂钓, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989$IPv6, Date: None, Resolution: None, Response Time: 2368 ms
-Name: 快乐垂钓, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989$IPv6, Date: None, Resolution: None, Response Time: 3150 ms
-Name: 精品体育, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1951 ms
-Name: 精品体育, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4464 ms
-Name: 精品体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5119 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1677 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221225897/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2465 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221226046/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2975 ms
-Name: 睛彩竞技, URL: http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 3659 ms
-Name: 睛彩竞技, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5262 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5875 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2380 ms
-Name: 睛彩篮球, URL: http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2444 ms
-Name: 睛彩篮球, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3039 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3607 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221225895/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4337 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221226027/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5066 ms
-Name: 睛彩篮球, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5384 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1033 ms
-Name: CHC家庭影院, URL: http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1062 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1488 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1495 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1551 ms
-Name: CHC家庭影院, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$IPv6, Date: None, Resolution: None, Response Time: 6449 ms
-Name: CHC影迷电影, URL: http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2093 ms
-Name: CHC影迷电影, URL: http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2471 ms
-Name: CHC影迷电影, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2512 ms
-Name: CHC影迷电影, URL: http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2966 ms
-Name: CHC影迷电影, URL: http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3033 ms
-Name: CHC影迷电影, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3435 ms
-Name: CHC影迷电影, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2$IPv6, Date: None, Resolution: None, Response Time: 5898 ms
-Name: 超级电影, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000021/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 6293 ms
-Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1538 ms
-Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1547 ms
-Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1953 ms
-Name: 黑莓电影, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 4174 ms
-Name: iHOT爱科幻, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 2200 ms
-Name: iHOT爱奇谈, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 3183 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 944 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 950 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 964 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1518 ms
-Name: CHC动作电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1805 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1968 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2746 ms
-Name: CHC动作电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3794 ms
-Name: CHC动作电影, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4769 ms
-Name: CHC动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4823 ms
-Name: CHC动作电影, URL: http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5639 ms
-Name: CHC动作电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5682 ms
-Name: CHC动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5911 ms
-Name: CHC动作电影, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$IPv6, Date: None, Resolution: None, Response Time: 6872 ms
-Name: CHC动作电影, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$IPv6, Date: None, Resolution: None, Response Time: 6996 ms
-Name: CHC动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11877 ms
-Name: iHOT爱体育, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 3938 ms
-Name: iHOT爱院线, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 5395 ms
-Name: iHOT爱历史, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 3514 ms
-Name: iHOT爱科学, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 1571 ms
-Name: iHOT爱旅行, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 2490 ms
-Name: iHOT爱赛车, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 2480 ms
-Name: 茶频道, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=YanG-1989$IPv6, Date: None, Resolution: None, Response Time: 1431 ms
-Name: 求索纪录, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 1458 ms
-Name: 求索纪录, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&yang-1989$IPv6, Date: None, Resolution: None, Response Time: 3479 ms
-Name: 求索纪录, URL: http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 5121 ms
-Name: 求索科学, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 3965 ms
-Name: 求索科学, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&yang-1989$IPv6, Date: None, Resolution: None, Response Time: 4082 ms
-Name: 求索科学, URL: http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 5131 ms
-Name: 求索动物, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 1433 ms
-Name: 求索动物, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&yang-1989$IPv6, Date: None, Resolution: None, Response Time: 1467 ms
-Name: 求索动物, URL: http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 5196 ms
-Name: 求索生活, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&yang-1989$IPv6, Date: None, Resolution: None, Response Time: 1437 ms
-Name: 求索生活, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 4516 ms
-Name: 求索生活, URL: http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 5117 ms
-Name: CCTV1, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 949 ms
-Name: CCTV1, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2325 ms
-Name: CCTV1, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2778 ms
-Name: CCTV1, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2851 ms
-Name: CCTV1, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3755 ms
-Name: CCTV1, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6478 ms
-Name: CCTV2, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 960 ms
-Name: CCTV2, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1070 ms
-Name: CCTV2, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1824 ms
-Name: CCTV2, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2699 ms
-Name: CCTV2, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 4306 ms
-Name: CCTV2, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7860 ms
-Name: CCTV4, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1276 ms
-Name: CCTV4, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1466 ms
-Name: CCTV4, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2047 ms
-Name: CCTV4, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2564 ms
-Name: CCTV4, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 3769 ms
-Name: CCTV4, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4143 ms
-Name: CCTV4欧洲, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 943 ms
-Name: CCTV4欧洲, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1059 ms
-Name: CCTV4欧洲, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2678 ms
-Name: CCTV4欧洲, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3855 ms
-Name: CCTV4欧洲, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4601 ms
-Name: CCTV4欧洲, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5986 ms
-Name: CCTV3, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1556 ms
-Name: CCTV3, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3375 ms
-Name: CCTV3, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3662 ms
-Name: CCTV3, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5216 ms
-Name: CCTV3, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6418 ms
-Name: CCTV3, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10147 ms
-Name: CCTV5, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 952 ms
-Name: CCTV5, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1771 ms
-Name: CCTV5, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226019/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2055 ms
-Name: CCTV5, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2321 ms
-Name: CCTV5, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4001 ms
-Name: CCTV5, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5180 ms
-Name: CCTV6, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1224 ms
-Name: CCTV6, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3136 ms
-Name: CCTV6, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4597 ms
-Name: CCTV6, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5673 ms
-Name: CCTV6, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5675 ms
-Name: CCTV6, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226010/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5822 ms
-Name: CCTV5+, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 953 ms
-Name: CCTV5+, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 961 ms
-Name: CCTV5+, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4868 ms
-Name: CCTV5+, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5689 ms
-Name: CCTV5+, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6457 ms
-Name: CCTV5+, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6712 ms
-Name: CCTV7, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3606 ms
-Name: CCTV7, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4569 ms
-Name: CCTV7, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 4607 ms
-Name: CCTV7, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225733/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4779 ms
-Name: CCTV7, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4958 ms
-Name: CCTV7, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024341/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8238 ms
-Name: CCTV8, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 935 ms
-Name: CCTV8, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1924 ms
-Name: CCTV8, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2943 ms
-Name: CCTV8, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3971 ms
-Name: CCTV8, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226008/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4706 ms
-Name: CCTV8, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5265 ms
-Name: CCTV9, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2010 ms
-Name: CCTV9, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2676 ms
-Name: CCTV9, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3539 ms
-Name: CCTV9, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3656 ms
-Name: CCTV9, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5356 ms
-Name: CCTV9, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5968 ms
-Name: CCTV11, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1901 ms
-Name: CCTV11, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1992 ms
-Name: CCTV11, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225597/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2438 ms
-Name: CCTV11, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3111 ms
-Name: CCTV11, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3152 ms
-Name: CCTV11, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3476 ms
-Name: CCTV10, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225730/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1996 ms
-Name: CCTV10, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2506 ms
-Name: CCTV10, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 3049 ms
-Name: CCTV10, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3834 ms
-Name: CCTV10, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4867 ms
-Name: CCTV10, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5624 ms
-Name: CCTV12, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1179 ms
-Name: CCTV12, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2142 ms
-Name: CCTV12, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225731/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2160 ms
-Name: CCTV12, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2554 ms
-Name: CCTV12, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2674 ms
-Name: CCTV12, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3232 ms
-Name: CCTV13, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1117 ms
-Name: CCTV13, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1554 ms
-Name: CCTV13, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2210 ms
-Name: CCTV13, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2980 ms
-Name: CCTV13, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3131 ms
-Name: CCTV13, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4380 ms
-Name: CCTV14, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2357 ms
-Name: CCTV14, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2964 ms
-Name: CCTV14, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225732/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3829 ms
-Name: CCTV14, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4031 ms
-Name: CCTV14, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4460 ms
-Name: CCTV14, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226591/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5244 ms
-Name: CCTV17, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 946 ms
-Name: CCTV17, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 1316 ms
-Name: CCTV17, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2039 ms
-Name: CCTV17, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2538 ms
-Name: CCTV17, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2552 ms
-Name: CCTV17, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2569 ms
-Name: CCTV15, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2256 ms
-Name: CCTV15, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2520 ms
-Name: CCTV15, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2750 ms
-Name: CCTV15, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225601/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3379 ms
-Name: CCTV15, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4314 ms
-Name: CCTV15, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8091 ms
-Name: CCTV16, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1314 ms
-Name: CCTV16, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1493 ms
-Name: CCTV16, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1730 ms
-Name: CCTV16, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1799 ms
-Name: CCTV16, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2540 ms
-Name: CCTV16, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 5852 ms
-Name: CCTV-兵器科技, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8%5C$IPv6, Date: None, Resolution: None, Response Time: 1963 ms
-Name: CCTV-风云足球, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1024 ms
-Name: CCTV-世界地理, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 949 ms
-Name: CCTV-央视台球, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 964 ms
-Name: CCTV-央视台球, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1001 ms
-Name: CCTV-第一剧场, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3870 ms
-Name: CCTV-风云音乐, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1958 ms
-Name: CCTV-风云剧场, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1534 ms
-Name: CCTV-央视高网, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000094$IPv6, Date: None, Resolution: None, Response Time: 5130 ms
-Name: CCTV-怀旧剧场, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2477 ms
-Name: CCTV-女性时尚, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1962 ms
-Name: CCTV-电视指南, URL: http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8%5C$IPv6, Date: None, Resolution: None, Response Time: 1951 ms
-Name: 精品体育, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3241 ms
-Name: 精品体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5193 ms
-Name: 精品体育, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6196 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1544 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221225897/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2410 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3062 ms
-Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221226046/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3123 ms
-Name: 睛彩竞技, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5127 ms
-Name: 睛彩竞技, URL: http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 6521 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221225895/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3089 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3549 ms
-Name: 睛彩篮球, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3610 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221226027/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4369 ms
-Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4375 ms
-Name: 睛彩篮球, URL: http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 4659 ms
-Name: 睛彩篮球, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5662 ms
-Name: 魅力足球, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 2454 ms
-Name: 魅力足球, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 3180 ms
-Name: NewTV 精品大剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2832 ms
-Name: 超级体育, URL: http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 934 ms
-Name: 超级体育, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4085 ms
-Name: 超级体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000020/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 5131 ms
-Name: NewTV 精品萌宠, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1548 ms
-Name: NewTV 精品纪录, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3578 ms
-Name: NewTV 精品体育, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3179 ms
-Name: NewTV 超级电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3575 ms
-Name: NewTV 超级体育, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1597 ms
-Name: NewTV 超级体育, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989$IPv6, Date: None, Resolution: None, Response Time: 4076 ms
-Name: NewTV 超级电视剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2561 ms
-Name: NewTV 超级电视剧, URL: http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/$IPv6, Date: None, Resolution: None, Response Time: 3558 ms
-Name: NewTV 超级电视剧, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/$IPv6, Date: None, Resolution: None, Response Time: 3689 ms
-Name: NewTV 超级电视剧, URL: http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/$IPv6, Date: None, Resolution: None, Response Time: 5168 ms
-Name: NewTV 超级综艺, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2574 ms
-Name: NewTV 潮妈辣婆, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2335 ms
-Name: NewTV 东北热剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2571 ms
-Name: NewTV 古装剧场, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1533 ms
-Name: NewTV 欢乐剧场, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1556 ms
-Name: NewTV 动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2896 ms
-Name: NewTV 金牌综艺, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1544 ms
-Name: NewTV 惊悚悬疑, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1554 ms
-Name: NewTV 军事评论, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1537 ms
-Name: NewTV 家庭剧场, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4603 ms
-Name: NewTV 军旅剧场, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2865 ms
-Name: NewTV 魅力潇湘, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 1462 ms
-Name: NewTV 明星大片, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1549 ms
-Name: SiTV 动漫秀场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2978 ms
-Name: NewTV 中国功夫, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5999 ms
-Name: SiTV 欢笑剧场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5527 ms
-Name: SiTV 金色学堂, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4283 ms
-Name: NewTV惊悚悬疑, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4120 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1208 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1795 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1922 ms
-Name: CHC家庭影院, URL: http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2961 ms
-Name: CHC家庭影院, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3141 ms
-Name: CHC家庭影院, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$IPv6, Date: None, Resolution: None, Response Time: 6263 ms
-Name: NewTV动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2338 ms
-Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1549 ms
-Name: 黑莓电影, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 2507 ms
-Name: 黑莓电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3191 ms
-Name: 黑莓电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4593 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 953 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 957 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1483 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1527 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1975 ms
-Name: CHC动作电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2337 ms
-Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2862 ms
-Name: CHC动作电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3078 ms
-Name: CHC动作电影, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5064 ms
-Name: CHC动作电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5692 ms
-Name: CHC动作电影, URL: http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5695 ms
-Name: CHC动作电影, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$IPv6, Date: None, Resolution: None, Response Time: 5831 ms
-Name: CHC动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5870 ms
-Name: CHC动作电影, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$IPv6, Date: None, Resolution: None, Response Time: 6059 ms
-Name: CHC动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6282 ms
+Name: CCTV-1_综合, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9070 ms
+Name: CCTV-2_财经, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6976 ms
+Name: CCTV-3_综艺, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15061 ms
+Name: CCTV-4_中文国际, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7502 ms
+Name: CCTV-4_中文国际, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7809 ms
+Name: CCTV-5_体育, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8978 ms
+Name: CCTV-5_体育, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12577 ms
+Name: CCTV-5+_体育赛事, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10921 ms
+Name: CCTV-6_电影, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9150 ms
+Name: CCTV-7_国防军事, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11765 ms
+Name: CCTV-8_电视剧, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9512 ms
+Name: CCTV-9_纪录, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11903 ms
+Name: CCTV-9_纪录, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 14391 ms
+Name: CCTV-12_社会与法, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10522 ms
+Name: CCTV-12_社会与法, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11364 ms
+Name: CCTV-12_社会与法, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11714 ms
+Name: CCTV-13_新闻, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 14367 ms
+Name: CCTV-15_音乐, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9073 ms
+Name: CCTV-15_音乐, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9910 ms
+Name: CCTV-15_音乐, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9930 ms
+Name: CCTV-16_奥林匹克, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12990 ms
+Name: CCTV-16_奥林匹克, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 13824 ms
+Name: CCTV-17_农业农村, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12140 ms
+Name: CCTV12, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11515 ms
+Name: CCTV12, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12178 ms
+Name: CCTV12, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12333 ms
+Name: CCTV12, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 15256 ms
+Name: CCTV13, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11462 ms
+Name: CCTV13, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 14517 ms
+Name: CCTV13, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15946 ms
+Name: CCTV15, URL: http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4615 ms
+Name: CCTV15, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5422 ms
+Name: CCTV15, URL: http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6232 ms
+Name: CCTV15, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225601/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10964 ms
+Name: CCTV15, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 11525 ms
+Name: CCTV15, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12041 ms
+Name: CCTV17, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7952 ms
+Name: CCTV17, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9095 ms
+Name: CCTV17, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10421 ms
+Name: CCTV17, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 11588 ms
+Name: CCTV17, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12122 ms
+Name: CCTV17, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12428 ms
+Name: CCTV-兵器科技, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8%5C$IPv6, Date: None, Resolution: None, Response Time: 2304 ms
+Name: CCTV-第一剧场, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1203 ms
+Name: CCTV-风云足球, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1169 ms
+Name: CCTV16, URL: http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 6062 ms
+Name: CCTV16, URL: http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 7161 ms
+Name: CCTV16, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$IPv6, Date: None, Resolution: None, Response Time: 11269 ms
+Name: CCTV16, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12355 ms
+Name: CCTV16, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 12470 ms
+Name: CCTV16, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 14546 ms
+Name: CCTV-世界地理, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1230 ms
+Name: CCTV-央视台球, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1203 ms
+Name: CCTV-央视台球, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1412 ms
+Name: CCTV-风云音乐, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1685 ms
+Name: CCTV-风云剧场, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2248 ms
+Name: CCTV-怀旧剧场, URL: http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2965 ms
+Name: CCTV-电视指南, URL: http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8%5C$IPv6, Date: None, Resolution: None, Response Time: 1491 ms
+Name: CCTV-央视高网, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000094$IPv6, Date: None, Resolution: None, Response Time: 6493 ms
+Name: CCTV-女性时尚, URL: http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3212 ms
+Name: 睛彩竞技, URL: http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8$IPv6, Date: None, Resolution: None, Response Time: 12473 ms
+Name: NewTV 精品大剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 10669 ms
+Name: 超级体育, URL: http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8969 ms
+Name: 超级体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000020/index.m3u8?$IPv6, Date: None, Resolution: None, Response Time: 13141 ms
+Name: 超级体育, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 13795 ms
+Name: 魅力足球, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$IPv6, Date: None, Resolution: None, Response Time: 11212 ms
+Name: 魅力足球, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 13810 ms
+Name: NewTV 精品纪录, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3935 ms
+Name: NewTV 精品萌宠, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3377 ms
+Name: NewTV 精品体育, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3846 ms
+Name: NewTV 超级电视剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3397 ms
+Name: NewTV 超级电视剧, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/$IPv6, Date: None, Resolution: None, Response Time: 5795 ms
+Name: NewTV 超级电视剧, URL: http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/$IPv6, Date: None, Resolution: None, Response Time: 6353 ms
+Name: NewTV 超级电视剧, URL: http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/$IPv6, Date: None, Resolution: None, Response Time: 6847 ms
+Name: NewTV 超级电影, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4605 ms
+Name: NewTV 超级体育, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989$IPv6, Date: None, Resolution: None, Response Time: 4811 ms
+Name: NewTV 超级体育, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5466 ms
+Name: NewTV 超级综艺, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2965 ms
+Name: NewTV 潮妈辣婆, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3485 ms
+Name: NewTV 东北热剧, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4596 ms
+Name: NewTV 古装剧场, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4676 ms
+Name: NewTV 欢乐剧场, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5121 ms
+Name: NewTV 金牌综艺, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2159 ms
+Name: NewTV 家庭剧场, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 5639 ms
+Name: NewTV 惊悚悬疑, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4356 ms
+Name: NewTV 军旅剧场, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 4903 ms
+Name: NewTV 军事评论, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3679 ms
+Name: NewTV 明星大片, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2159 ms
+Name: NewTV 魅力潇湘, URL: http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281$IPv6, Date: None, Resolution: None, Response Time: 4108 ms
+Name: NewTV 中国功夫, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3248 ms
+Name: SiTV 动漫秀场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3416 ms
+Name: SiTV 欢笑剧场, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 3526 ms
+Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 1990 ms
+Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 2645 ms
+Name: CHC动作电影, URL: http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 8518 ms
+Name: CHC动作电影, URL: http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 9341 ms
+Name: CHC动作电影, URL: http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPv6, Date: None, Resolution: None, Response Time: 15173 ms
